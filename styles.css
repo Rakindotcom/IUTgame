@@ -67,7 +67,7 @@ body {
 }
 
 #score {
-    left: 100px;
+    left: 15px;
     border: medium solid currentColor;
     border-style: none;
     border-top-style: none;
@@ -79,7 +79,7 @@ body {
 }
 
 #target {
-    right: 100px;
+    right: 15px;
     border: medium solid currentColor;
     border-style: none;
     padding-left: .9375pc;
