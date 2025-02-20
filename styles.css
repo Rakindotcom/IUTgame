@@ -142,6 +142,17 @@ h1 {
     #slingshot {
         bottom: 20%;
     }
+
+    #score,
+    #target {
+        font-size: 14px;
+    }
+
+    #score {
+        left: 10px;
+    }
+
+    #target {
+        right: 10px;
+    }
 }
-
-
